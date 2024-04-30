@@ -12,5 +12,7 @@ Cada document o imatge va acompanyada d'una fitxa descriptiva. Aquesta descripci
 
 ### Disseny i implementació de la base de dades
 
+A partir del document anterior fem el disseny de la base de dades. Comencem pel disseny conceptual: `docs/disseny_bdd.pdf` 
+
 ### Disseny i implementació del codi
  
